@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['cucumber', 'goguma', 'mackerel', 'onion', 'potato']
+
+roboflow:
+  workspace: yu-hoson
+  project: first-mixture-ingredient
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/yu-hoson/first-mixture-ingredient/1

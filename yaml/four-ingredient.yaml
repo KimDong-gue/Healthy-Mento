@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Squid', 'lettuce', 'sausage', 'shrimp']
+
+roboflow:
+  workspace: alpha7
+  project: four-ingredient
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/alpha7/four-ingredient/dataset/1
