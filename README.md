@@ -80,9 +80,8 @@
 
   <br>
   
-  | 운동시작 |
+  | 운동 시작 예시 |
   |---|
-  |<div align='center'>운동 시작 예시</div>|
   |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/af7ee6cd-10dc-4dad-b883-f98c51f3c84e)|
 
 
