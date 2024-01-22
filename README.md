@@ -1,19 +1,8 @@
 # Healthy Mento
- 운동자세 코칭과 식단관리 추천
 
-주제: 운동자세 코칭과 식단관리 추천
+`Skils`: torch, python, ubuntu20.04LTS , git-hub, notion
 
-인원: 김동신, 유호선
-
-Skils: torch, python, ubuntu20.04LTS , git-hub, notion
-
-모델: MediaPipe, Yolo v8 nano
-
-결과: 
-
-installation:
-
-1.pip install -r requirements.txt
+`model`: MediaPipe, Motion Transfer, Yolo v8 small
 
 <hr>
 <br>
@@ -23,8 +12,8 @@ installation:
 <br><br>
 
 ## 1.Collaborator
-- 팀장 : 김동신(주제선정, 기획 및 설계, Motion Transfer, Media Pipe, Chat GPT,PPT)
-- 팀원 : 유호선(주제선정, 기획 및 설계, Yolo,Chat GPT)
+- 팀장 : 김동신(주제선정, 기획 및 설계, Motion Transfer, Media Pipe, Chat GPT, PPT)
+- 팀원 : 유호선(주제선정, 기획 및 설계, Yolo v8, Chat GPT)
 
 <br><br>
 
@@ -76,7 +65,7 @@ installation:
   
   |목차 & 기획 의도|
   |---|
-  |사진|
+  |![image](https://github.com/KimDong-gue/Second_Team_Project/assets/116249934/0a5f30ca-b9bf-484c-90fd-d438b6b5f842)|
   <br>
   
   |사용한 Tech & AI Model|
@@ -84,21 +73,19 @@ installation:
   |사진|
   <br>
   
-  |개발 기간 & DB/기능 설계도|
+  |Gantt Chart & Flow Chart|
   |---|
-  |사진|
+  |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/698326d3-6137-4ad4-8e9e-c14a547e4cae)|
+|![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/449f5882-8d72-43cd-8855-6cf162d26e3c)|
+
   <br>
   
-  |UI / UX|
+  |UI / UX & 운동감지|
   |---|
-  |<div align='center'>일반 로그인 & 회원가입</div>|
-  |사진|
-  |<div align='center'>메인 화면 & 검색</div>|
-  |사진|
-  |<div align='center'>운동 시작</div>|
-  |사진|
-  |<div align='center'>마이 페이지</div>|
-  |사진|
+  |<div align='center'>웹페이지 예시 </div>|
+  ||
+  |<div align='center'>운동 시작 예시</div>|
+  ||
   <br>
   
   |시행 착오 / 개선 사항|
@@ -111,7 +98,7 @@ installation:
   
   |LWBG 팀원 소개|
   |---|
-  |![47-49](https://user-images.githubusercontent.com/104360734/206973748-e9d56d3e-d15a-4d8c-8ea2-040bcfa81c96.gif)|
+  |사진|
 
 </div>
 
