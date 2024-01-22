@@ -83,7 +83,7 @@
   | 운동시작 |
   |---|
   |<div align='center'>운동 시작 예시</div>|
-  |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/ec2f6c02-49f7-49db-ab7c-e0b98555a5be)|
+  |![Video](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/ec2f6c02-49f7-49db-ab7c-e0b98555a5be)|
 
 
 
