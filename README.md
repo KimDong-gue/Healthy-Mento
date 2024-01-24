@@ -70,34 +70,41 @@
   
   |사용한 Tech & AI Model|
   |---|
-  |사진|
+  |`Media Pipe`, `Motion Transfer`, `Yolo v8 Small`, `Chat GPT`|
   <br>
   
   |Gantt Chart & Flow Chart|
   |---|
   |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/698326d3-6137-4ad4-8e9e-c14a547e4cae)|
-|![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/449f5882-8d72-43cd-8855-6cf162d26e3c)|
+  |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/449f5882-8d72-43cd-8855-6cf162d26e3c)|
 
   <br>
   
-  | 운동 시작 예시 |
+  | 운동 자세 검출 예시 |
   |---|
   |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/af7ee6cd-10dc-4dad-b883-f98c51f3c84e)|
 
+  | 음식 추천 예시 |
+  |---|
+  |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/887fb075-0f5e-4018-8d86-6f9d28d1a6a4)|
+
+  | 운동 예시 |
+  |---|
+  |![12321](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/2a066c26-2d16-4926-bf8a-544f93a2842a)|
 
   <br>
   
   |시행 착오 / 개선 사항|
   |---|
   |<div align='center'>시행 착오</div>|
-  |사진|
-  |<div align='center'>개선 사항 & 참고 문헌<div>|
-  |사진|
+  |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/8abcb693-79d5-466c-b2c4-b9c6624c5c8a)|
+  ||
+  |<div align='center'>참고 문헌<div>|
+  |(https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch|
+  |(https://github.com/AliaksandrSiarohin/first-order-model)|
+  |(https://github.com/svip-lab/impersonator)|
+  |(https://github.com/Wangt-CN/DisCo?tab=readme-ov-file)|
   <br>
   
-  |LWBG 팀원 소개|
-  |---|
-  |사진|
-
 </div>
 
