@@ -48,7 +48,7 @@
   - #### `AI Model`
 
     `Python`의 `MediaPipe`와`Motion Transfer` 메인으로 사용자에게 운동에 대해 가이드를 제시하고,
-    `Yolo v8`을 이용하여, 음식을 분류하여, 칼로리와 가지고 있는 음식을 기반으로 Chat GPT로 하루 식단을 가이드
+    `Yolo v8`을 이용하여, 음식을 분류하여, 칼로리와 가지고 있는 음식을 기반으로 `Chat GPT`로 하루 식단을 가이드
     
     <br>
 
