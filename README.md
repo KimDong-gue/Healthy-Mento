@@ -106,10 +106,14 @@
     하였으나, Reference를 보는 통찰력이 부족해, 구현하는데는 어려움이 있었습니다. 향후에 Reference를 참고해서 완료할 예정입니다. 
   
   |<div align='center'>참고 문헌<div>|
-  |(https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)
-  (https://github.com/AliaksandrSiarohin/first-order-model)
-  (https://github.com/svip-lab/impersonator)
-  (https://github.com/Wangt-CN/DisCo?tab=readme-ov-file)|
+  |---|
+  |(https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)|
+  
+  |(https://github.com/AliaksandrSiarohin/first-order-model)|
+  
+  |(https://github.com/svip-lab/impersonator)|
+  
+  |(https://github.com/Wangt-CN/DisCo?tab=readme-ov-file)|
   <br>
   
 </div>
