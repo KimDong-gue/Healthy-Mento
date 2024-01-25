@@ -107,12 +107,12 @@
   
   |<div align='center'>참고 문헌<div>|
   |---|
-  |(https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)|
-  
+  |(https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)|
+  |---|
   |(https://github.com/AliaksandrSiarohin/first-order-model)|
-  
+  |---|
   |(https://github.com/svip-lab/impersonator)|
-  
+  |---|
   |(https://github.com/Wangt-CN/DisCo?tab=readme-ov-file)|
   <br>
   
