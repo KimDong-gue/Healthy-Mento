@@ -1,17 +1,9 @@
-# Healthy Mento
-
-`Skils`: torch, python, ubuntu20.04LTS , git-hub, notion
-
-`model`: MediaPipe, Motion Transfer, Yolo v8 small
-
-<hr>
-<br>
 
 ### <b>AI를 기반으로 진행하는 LWBG 팀의 헬스케어 서비스 'Heathly Mento' 프로젝트</b>
 
 <br><br>
 
-## 1.Collaborator
+## 1. Collaborator
 - 팀장 : 김동신(주제선정, 기획 및 설계, Motion Transfer, Media Pipe, Chat GPT, PPT)
 - 팀원 : 유호선(주제선정, 기획 및 설계, Yolo v8, Chat GPT)
 
@@ -98,22 +90,25 @@
   |---|
   |<div align='center'>시행 착오</div>|
   |![image](https://github.com/KimDong-gue/Healthy-Mento/assets/116249934/8abcb693-79d5-466c-b2c4-b9c6624c5c8a)|
+  ||
+  |- Yolo v8 Small 모델링시, Data InBalance 문제 때문에, 데이터 증강을 수행 후, 어느정도의 InBalance를 해결하였습니다.| 
+  ||
+  | - MediaPipe로 운동 자세를 검출할 때, 초기에 발생한 다양한 어려움들을 극복하기 위해 끊임없는 실험과 수정 작업이 필요했습니다. 이러한 경험을 통해 데이터 다양성, 후처리 기술의 활용, 적절한 임계값 설정, 모델의 업데이트에 대한 중요성을 깨달았습니다. 
+  이러한 과정을 통해 프로젝트를 성공적으로 완료할 수 있었습니다. |
+  ||
+  | - Motion Transfer 모델링시, 프로젝트를 시작할 때, 동영상을 변경하지 않고 데모버전을 만들기로 결정했습니다. 이는 초기에 프로토타입을 빠르게 구현하고 사용자에게 시각적으로 효과를 보여주는 것이 목표였습니다. 그 후, Fine-Tuning해서 Motion Transfer
+   하려고 하였으나, Reference를 보는 통찰력이 부족해, 구현하는데는 어려움이 있었습니다. 향후에 Reference를 참고해서 완료할 예정입니다.|
+  <br>
   
-  - Yolo v8 Small 모델링시, Data InBalance 문제 때문에, 데이터 증강을 수행 후, 어느정도의 InBalance를 해결하였습니다.  
-  - MediaPipe로 운동 자세를 검출할 때, 초기에 발생한 다양한 어려움들을 극복하기 위해 끊임없는 실험과 수정 작업이 필요했습니다. 이러한 경험을 통해 데이터 다양성, 후처리 기술의 활용, 적절한 임계값 설정, 모델의 업데이트에 대한 중요성을 깨달았습니다. 이러한 
-   과정을 통해 프로젝트를 성공적으로 완료할 수 있었습니다. 
-  - Motion Transfer 모델링시, 프로젝트를 시작할 때, 동영상을 변경하지 않고 데모버전을 만들기로 결정했습니다. 이는 초기에 프로토타입을 빠르게 구현하고 사용자에게 시각적으로 효과를 보여주는 것이 목표였습니다. 그 후, Fine-Tuning해서 Motion Transfer하려고
-    하였으나, Reference를 보는 통찰력이 부족해, 구현하는데는 어려움이 있었습니다. 향후에 Reference를 참고해서 완료할 예정입니다. 
-  
-  |<div align='center'>참고 문헌<div>|
+  |<div align='center'>참고 문헌</div>|
   |---|
-  |(https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)|
-  |---|
-  |(https://github.com/AliaksandrSiarohin/first-order-model)|
-  |---|
-  |(https://github.com/svip-lab/impersonator)|
-  |---|
-  |(https://github.com/Wangt-CN/DisCo?tab=readme-ov-file)|
+  |https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch|
+  ||
+  |https://github.com/AliaksandrSiarohin/first-order-model|
+  ||
+  |https://github.com/svip-lab/impersonator|
+  ||
+  |https://github.com/Wangt-CN/DisCo?tab=readme-ov-file|
   <br>
   
 </div>
