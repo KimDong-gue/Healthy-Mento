@@ -35,7 +35,7 @@
 
 <br><br>
 
-## 3. Project Management (22.11.03 ~ 22.12.14)
+## 3. Project Management (23.11.03 ~ 23.12.14)
 ### 프로젝트 개발 방식
   - #### `Front-End`
 
