@@ -4,8 +4,8 @@
 <br><br>
 
 ## 1. Collaborator
-- 팀장 : 김동신(주제선정, 기획 및 설계, Motion Transfer, Media Pipe, Chat GPT, PPT)
-- 팀원 : 유호선(주제선정, 기획 및 설계, Yolo v8, Chat GPT)
+- 김동신(주제선정, 기획 및 설계, Motion Transfer, Media Pipe, Chat GPT, PPT)
+- 유호선(주제선정, 기획 및 설계, Yolo v8, Chat GPT)
 
 <br><br>
 
